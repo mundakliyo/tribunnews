@@ -159,12 +159,12 @@
       "name-element":"meta",
       "data-attribute":[
         {
-          "name-attribute":"property",
-          "value-attribute":"og:url"
+          "name-attribute":"name",
+          "value-attribute":"google-site-verification"
         },
         {
           "name-attribute":"content",
-          "value-attribute":"${urlPost}"
+          "value-attribute":"odyg07dEHtKsgPMfkUqUTWCbL4v_9SwxWorVxXQ6VpM"
         }
       ],
       "data-innerHTML":"",
