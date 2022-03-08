@@ -1,8 +1,8 @@
 {
-  "name-web":"STACKOVERFLOW MASKODING",
-  "author":"MASKODING",
+  "name-web":"Resep Makanan Terbaru",
+  "author":"resep",
   "remove-comment-html":true,
-  "target":"https://m.tribunnews.com",
+  "target":"https://allrecipes.com",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "script",
